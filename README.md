@@ -1,2 +1,2 @@
 # repo-exercise
-testing repo class with Meta
+testing repo class with Meta Course
